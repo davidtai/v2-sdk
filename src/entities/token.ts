@@ -81,4 +81,5 @@ export const WETH = {
   [ChainId.GÖRLI]: new Token(ChainId.GÖRLI, '0xB4FBF271143F4FBf7B91A5ded31805e42b2208d6', 18, 'WETH', 'Wrapped Ether'),
   [ChainId.KOVAN]: new Token(ChainId.KOVAN, '0xd0A1E359811322d97991E03f863a0C30C2cF029C', 18, 'WETH', 'Wrapped Ether'),
   [ChainId.ASSAM_TEA]: new Token(ChainId.ASSAM_TEA, '0x9Ce422C446f401fBf8A400E5765927d642D426F4', 18, 'WTEA', 'Wrapped Tea'),
+  [ChainId.SEPOLIA_TEA]: new Token(ChainId.SEPOLIA_TEA, '0x7752dBd604a5C43521408ee80486853dCEb4cceB', 18, 'WTEA', 'Wrapped Tea'),
 }
